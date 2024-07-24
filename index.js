@@ -85,18 +85,4 @@ while (bandera) {
     }
 }
 
-//for (let i = 0; i < options.length; i++) {
-//    console.log(options[i]); 
-//
 
-
-//let total = 0
-// let cantidadDeAlumnos = parseInt(prompt("¿Cuantos alumnos tenes?"))
-
-// for(let i = 1; i <= cantidadDeAlumnos; i++){
-//     let nota = parseInt(prompt("¿Cual es la nota del alumno " + i + "?"))
-
-//     total = total + nota
-// }
-
-// alert("El promedio fue: " + total/cantidadDeAlumnos)
